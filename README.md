@@ -2,8 +2,8 @@
 
 It is Web Based Weather Application, where the User Enters any city name and the weather of that particular ity will get displayed.
 
-Usage
-======
+How to Use
+===========
 1) User enters the city name in text Box
 2) User then clicks on the button , right hand side of the text box with a search icon
 3) Weather gets displayed.
