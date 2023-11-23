@@ -1,6 +1,6 @@
 # Weather_App_Javascript
 
-It is Web Based Weather Application, where the User Enters any city name and the weather of that particular ity will get displayed.
+It is Web Based Weather Application, where the User Enters any city name and the current weather of that particular city will get displayed. The Current weather Data is fetched from FESS API from OpenWeatherMap  and it will show information like Temperature, Humidity, WindSpeed, Weather Condition etc.
 
 How to Use
 ===========
